@@ -12,9 +12,7 @@ class Solution {
             start++;
             end--;
         }
-        for(char c : s){
-            System.out.print(c);
-        }
+       
        
     }
     
